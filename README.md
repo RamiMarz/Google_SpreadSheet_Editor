@@ -1,6 +1,6 @@
 # Google Cloud Spreadsheet Writer - Write Data to Google Spreadsheet
 
-This project lets us read and write data to a [Google Spreadsheet](https://www.google.com/sheets/about/) using pythong.
+This project lets us read and write data to a [Google Spreadsheet](https://www.google.com/sheets/about/) using python.
 
 ----
 
