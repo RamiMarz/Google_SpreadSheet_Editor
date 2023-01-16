@@ -19,4 +19,4 @@ rows = worksheet.get_all_records()
 #df = pd.DataFrame(rows)
 #print(df)
 
-worksheet.update('A4:D4', [['01/05/2003', '17:00', 20,'NO']])
+#worksheet.update('A4:D4', [['01/05/2003', '17:00', 20,'NO']])
